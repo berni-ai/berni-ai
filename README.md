@@ -1,7 +1,7 @@
 # 👋🏽 Let’s Build Something Impactful
 I’m a product-minded data scientist and change agent, passionate about bridging the gap between data, products, and people to drive meaningful, real-world impact.
 Currently at **WTW**, I translate complex business problems into clear user stories for developers to build , and turn raw data into insights so the business does not miss the window to act.
-Before that, I worked in a fast-paced **EdTech startup in Africa as a Product Manager, Analytics,** where I led the product journey from discovery to the delivery of the MVP and Phase II launch. I hold a MSc in Data Science at the University of Northumbria, Newcastle.
+Before that, I worked in a fast-paced **EdTech startup in Africa as a Product Manager, Analytics,** where I owned the product journey from discovery to the delivery of the MVP and Phase II launch. I hold a MSc in Data Science at the University of Northumbria, Newcastle.
 
 ---
 ## 🧰 Tech Stack & Tools

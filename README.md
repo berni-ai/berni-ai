@@ -34,7 +34,7 @@ Across everything I do, I prioritise:
 
 - Clarity in communication and visuals  
 - Strategic impact through data storytelling  
-- Scalable value — solutions that work across clients and contexts
+- Scalable value — solutions that are transferable and client-ready
 
 I believe great analytics are not just technically brilliant — they’re thoughtfully designed to be reusable, accessible, and aligned with real-world needs.
 

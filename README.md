@@ -9,7 +9,6 @@ Previously, I worked at a fast-paced EdTech startup in Africa as a **Product Man
 
 I hold an MSc in Data Science from Northumbria University, Newcastle. My go-to tools: **Python, Mixpanel, SQL, Power BI**.
 
-Across everything I do, I prioritise clarity, strategic impact, and scalable value.  
-🔁 **We build analytics solutions and analysis that are easily configurable and scalable across clients—by design.**
+Across everything I do, I prioritise clarity, strategic impact, and scalable value.**We build analytics solutions and analysis that are easily configurable and scalable across clients by design.**
 
 Let’s connect and keep learning together!

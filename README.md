@@ -37,4 +37,26 @@ I hold an MSc in Data Science from **Northumbria University, Newcastle**, and lo
 
 Day to day, I work with:
 
-- P
+- Python  
+- SQL  
+- Power BI  
+- Mixpanel  
+- ...and whatever helps uncover the story behind the numbers.
+
+---
+
+## 💬 My Approach
+
+Across everything I do, I prioritise:
+
+- Clarity in communication and visuals  
+- Strategic impact through data storytelling  
+- Scalable value—solutions that work across clients and contexts  
+
+I believe great analytics are not just technically brilliant—they’re thoughtfully designed to be reusable, accessible, and aligned with real-world needs.
+
+---
+
+## 🤝 Let’s Connect & Keep Learning
+
+Whether you're an aspiring analyst, a curious data geek, or just starting to explore this space, I’d love to hear your story too. Let’s share ideas, grow our skills, and build something impactful—together.

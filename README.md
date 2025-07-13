@@ -18,7 +18,7 @@ Always aiming to build scalable solutions that deliver clarity and impact across
 
 ## 🌍 My Journey So Far
 
-Before WTW, I worked in a high-speed EdTech startup in Africa as a **Product Manager, Analytics**. I owned the product journey from discovery to MVP launch and beyond:
+Before WTW, I worked in a high-speed EdTech startup in Africa as a **Product Manager, Analytics**. I owned the product journey from discovery to the delivery of the MVP launch and Phase II launch beyond:
 
 - Led user research and stakeholder alignment  
 - Prioritised features with lean roadmaps  
@@ -29,7 +29,7 @@ Before WTW, I worked in a high-speed EdTech startup in Africa as a **Product Man
 
 ## 🎓 Education
 
-I hold an MSc in Data Science from **Northumbria University, Newcastle**, and love solving real-world problems with practical tools and creative thinking.
+I hold an MSc in Data Science from **Northumbria University, Newcastle**, and love solving realworld problems with practical tools and creative thinking.
 
 ---
 
@@ -53,10 +53,10 @@ Across everything I do, I prioritise:
 - Strategic impact through data storytelling  
 - Scalable value—solutions that work across clients and contexts  
 
-I believe great analytics are not just technically brilliant—they’re thoughtfully designed to be reusable, accessible, and aligned with real-world needs.
+I believe great analytics are not just technically brilliant, they’re thoughtfully designed to be reusable, accessible, and aligned with real-world needs.
 
 ---
 
 ## 🤝 Let’s Connect & Keep Learning
 
-Whether you're an aspiring analyst, a curious data geek, or just starting to explore this space, I’d love to hear your story too. Let’s share ideas, grow our skills, and build something impactful—together.
+Whether you're an aspiring analyst, a curious data geek, or just starting to explore this space, I’d love to hear your story too. Let’s share ideas, grow our skills, and build something impactful together.

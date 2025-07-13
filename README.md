@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi all! 😊👋🏽 I'm excited to share, learn, and connect—let’s build something impactful together!
+Hi all! 😊👋🏽 I'm excited to share, learn, and connect. Let us build something impactful together!
 
 I’m a builder and connector, passionate about bridging the gap between data, products, and people.  
 As a **Senior Data Scientist** at WTW, I turn complex business problems into actionable insights through charts, tables, and compelling narratives that drive better decision-making.

@@ -10,10 +10,11 @@ Before that, I worked in a fast-paced **EdTech startup in Africa as a Product Ma
 ---
 ## 💬 My Approach
 Across everything I do, I prioritise:
-- Clarity in communication and visuals  
-- Strategic impact through data storytelling  
-- Scalable value — solutions that are transferable and client-ready
-I believe great analytics are not just technically brilliant — they’re thoughtfully designed to be reusable, scalable, and aligned with business needs.
+- **Clarity** in communication and visuals
+- **Strategic** impact through data storytelling
+- **Scalable** solutions that are transferable across clients
+
+🧐 **My core philosophy:** I invest deeply in understanding the problem space aligning with stakeholders to define meaningful business questions and identifying scalable approaches, especially in configurable environments. This upfront clarity ensures analysis is repeatable, adaptable, and built to serve future clients seamlessly.
 
 ---
 ## Let’s Connect & Collaborate  

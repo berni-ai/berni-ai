@@ -7,7 +7,7 @@ As a **Senior Data Scientist** at WTW, I translate complex business problems int
 
 Previously, I worked at a fast-paced EdTech startup in Africa as a **Product Manager, Analytics**, where I owned the product journey from discovery through to the delivery of the MVP and Phase II launch of a customer-facing app. This involved conducting user research, aligning with stakeholders, prioritising features using a lean roadmap, and working iteratively with design and engineering to deliver a user-centric solution, ultimately resulting in increased product stickiness.
 
-I hold an MSc in Data Science from Northumbria University, Newcastle. My go-to tools: **Python, Mixpanel, SQL, Power BI**.
+I hold an MSc in Data Science from Northumbria University, Newcastle. My daily techstacks are: **Python, Mixpanel, SQL, Power BI**.
 
 Across everything I do, I prioritise clarity, strategic impact, and scalable value. **We build analytics solutions and analysis that are easily configurable and scalable across clients by design.**
 

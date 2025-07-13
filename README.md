@@ -18,7 +18,7 @@ Always aiming to build scalable solutions that deliver clarity and impact across
 
 ## 🌍 My Journey So Far
 
-Before WTW, I worked in a high-speed EdTech startup in Africa as a **Product Manager, Analytics**. I owned the product journey from discovery to the delivery of the MVP launch and Phase II launch beyond:
+Before WTW, I worked in a fast-paced EdTech startup in Africa as a **Product Manager, Analytics**. I owned the product journey from discovery to the delivery of the MVP launch and Phase II launch beyond:
 
 - Led user research and stakeholder alignment  
 - Prioritised features with lean roadmaps  

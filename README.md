@@ -1,14 +1,40 @@
-## Hi all!😊👋🏽
+# 👋 Let’s Build Something Impactful Together
 
-I'm excited to share, learn, and connect. Let us build something impactful together!
+I'm excited to connect with fellow data enthusiasts, emerging analysts, and changemakers who believe in the power of combining data, products, and people to drive meaningful change.
 
-I’m a product minded data scientist and change agent, passionate about bridging the gap between data, products, and people.  
-As a **Senior Data Scientist** at WTW, I translate complex business problems into clear user stories for developers to build, and transform raw data into actionable insights through interactive visualisations that support smarter, data-informed decision-making.
+I’m a product-minded data scientist and change agent, passionate about making complex data approachable, actionable, and user-centered. I currently work as a **Senior Data Scientist at WTW**, where I:
 
-Previously, I worked at a fast-paced EdTech startup in Africa as a **Product Manager, Analytics**, where I owned the product journey from discovery through to the delivery of the MVP and Phase II launch of a customer-facing app. This involved conducting user research, aligning with stakeholders, prioritising features using a lean roadmap, and working iteratively with design and engineering to deliver a user-centric solution, ultimately resulting in increased product stickiness.
+- Translate business problems into clear user stories for developers  
+- Transform raw data into actionable insights  
+- Design interactive visualisations that support smarter, data-informed decisions  
 
-I hold an MSc in Data Science from Northumbria University, Newcastle. My daily techstacks are: **Python, Mixpanel, SQL, Power BI**.
+---
 
-Across everything I do, I prioritise clarity, strategic impact, and scalable value. **We build analytics solutions and analysis that are easily configurable and scalable across clients by design.**
+## 🧠 I thrive at the intersection of analytics, product, and strategy
 
-Let’s connect and keep learning together!
+Always aiming to build scalable solutions that deliver clarity and impact across teams and clients.
+
+---
+
+## 🌍 My Journey So Far
+
+Before WTW, I worked in a high-speed EdTech startup in Africa as a **Product Manager, Analytics**. I owned the product journey from discovery to MVP launch and beyond:
+
+- Led user research and stakeholder alignment  
+- Prioritised features with lean roadmaps  
+- Delivered Phase II of a customer-facing app  
+- Boosted product stickiness with user-centric design  
+
+---
+
+## 🎓 Education
+
+I hold an MSc in Data Science from **Northumbria University, Newcastle**, and love solving real-world problems with practical tools and creative thinking.
+
+---
+
+## 🧰 Tech Stack & Toolkit
+
+Day to day, I work with:
+
+- P

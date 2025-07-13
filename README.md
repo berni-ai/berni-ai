@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**berni-ai/berni-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi all! 😊👋🏽 I'm excited to share, learn, and connect—let’s build something impactful together!
 
-Here are some ideas to get you started:
+I’m a builder and connector, passionate about bridging the gap between data, products, and people.  
+As a **Senior Data Scientist** at WTW, I turn complex business problems into actionable insights through charts, tables, and compelling narratives that drive better decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously, I worked at a fast-paced EdTech startup in Africa as a **Product Analyst & Manager**, where I applied lean analytics principles—using experimentation, segmentation (RFM), and feedback loops to guide product improvements and reduce waste.
+
+I hold an MSc in Data Science from Northumbria University, Newcastle. My go-to tools: **Python (Pandas), Mixpanel, SQL, Power BI**.
+
+Across everything I do, I prioritise clarity, strategic impact, and scalable value.  
+🔁 **We build analytics solutions and analysis that are easily configurable and scalable across clients—by design.**
+
+Let’s connect and keep learning together!

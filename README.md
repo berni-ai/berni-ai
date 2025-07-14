@@ -10,7 +10,7 @@ Prior, I worked in a fast-paced **EdTech startup in Africa as a Product Manager*
 ---
 ## 💬 My Approach
 Across everything I do, I prioritise:
-- **Clarity** in communication, visualisations, and set clear expectations on the scope to deliver. 
+- **Clarity** in communication, visualisations, and setting clear expectations on the scope to deliver. 
 - **Strategic** impact through data storytelling
 - **Scalable** solutions that are transferable across clients
 

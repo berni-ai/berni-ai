@@ -14,5 +14,5 @@ Across everything I do, I prioritise:
 - **Strategic** impact through data storytelling
 - **Scalable** solutions that are transferable across clients
 
-🧐 **My core philosophy:** I invest deeply in understanding the problem space, aligning with stakeholders to define key business questions and identifying scalable solutions, especially in configurable environments. This method prevents us from being caught offguard. This upfront clarity ensures analysis is repeatable, adaptable, and built to onboard future clients seamlessly.
+🧐 **My core philosophy:** I invest deeply in understanding the problem space, aligning with stakeholders to define key business questions and identifying scalable solutions, especially in configurable environments. This method prevents us from being caught offguard. This upfront clarity ensures requirements and analysis are repeatable, adaptable, and built to onboard future clients seamlessly.
 
